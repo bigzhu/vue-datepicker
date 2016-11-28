@@ -1,3 +1,5 @@
+# fix bug by bigzhu
+* fix vue2 still use $remove bug
 # vue-datepicker
 calendar and datepicker component with material design for Vue.js
 
